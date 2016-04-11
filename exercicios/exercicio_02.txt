@@ -1,0 +1,4 @@
+2_ Faça um loop com X numeros imprimindo os numero pares acima de 10 e menor que 60, e ao final do loop quero a soma dos numero pares e impares.
+
+Obs: Para saber se é par use a seguinte formula:
+	 $numero % 2 == 0
