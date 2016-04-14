@@ -32,8 +32,9 @@ Arquivos da aula 1 (09/04/2016):
 	</li>
 	<li>
 	<a href='https://github.com/linikerdev/curso-php-2016/blob/master/exercicios/exec_02.md'>Exercicio 2</a>
+	<br>
 	&emsp;<a href="https://github.com/linikerdev/curso-php-2016/blob/master/respostas/resposta_02.md">Resposta</a>
 	</li>
 	<li>
-	<a href='https://github.com/linikerdev/curso-php-2016/blob/master/exercicios/exec_03.md'>link</a>
+	<a href='https://github.com/linikerdev/curso-php-2016/blob/master/exercicios/exec_03.md'>Exercicio 3</a>
 	</li>
