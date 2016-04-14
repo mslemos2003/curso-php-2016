@@ -1,0 +1,2 @@
+<p>1_ Construir um algoritmo que leia 2 n&uacute;meros e efetue a adi&ccedil;&atilde;o. Caso o valor somado seja maior que 20, este dever&aacute; ser apresentando somando-se a ele mais 8.Caso o valor somado seja menor ou igual a 20,&nbsp;este dever&aacute; ser apresentado subtraindo-se 5.</p>
+<p>Obs: N&atilde;o ser&aacute; adminitido valor negativo</p>
