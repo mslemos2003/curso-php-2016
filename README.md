@@ -21,3 +21,12 @@ Arquivos da aula 1 (09/04/2016):
 8 - For 
 <br>
 9 - While
+
+<hr>
+<b>Exercícios</b>
+
+-Exercicio 1 <a href='https://github.com/linikerdev/curso-php-2016/blob/master/exercicios/exec_01.md'>link</a>
+<br>
+-Exercicio 2 <a href='https://github.com/linikerdev/curso-php-2016/blob/master/exercicios/exec_02.md'>link</a>
+<br>
+-Exercicio 3 <a href='https://github.com/linikerdev/curso-php-2016/blob/master/exercicios/exec_03.md'>link</a>
